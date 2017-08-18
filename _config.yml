@@ -5,7 +5,7 @@ url: https://formfu.rocks
 description: "Define your forms, don't code them"
 keywords: "your keywords, separated by commas"
 skills: "Declarative Forms - Data Validation - Open Source - Perl"
-meta_author: FormFu Wuxia
+meta_author: FormFu Team
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: FormFu Wuxia
+  copyright: FormFu Team
   location: Location
   social: Around the Web
   credits: Credits

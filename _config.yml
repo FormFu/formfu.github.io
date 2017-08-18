@@ -2,9 +2,9 @@
 title: FormFu for Perl
 email: your-email@domain.com
 url: https://formfu.rocks
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Define your forms, don't code them"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Declarative Forms - Data Validation - Open Source - Perl"
 meta_author: FormFu Team
 
 # Google webmaster tools
@@ -39,14 +39,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: http://stackoverflow.com/questions/tagged/formfu
   - title: github
     url: http://github.com/FormFu
 
@@ -56,7 +50,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'FormFu is an Open Source Bootstrap form processing library for the Perl language'
 
 # Build settings
 markdown: kramdown

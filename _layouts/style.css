@@ -2,6 +2,9 @@
 {% include css/main.css %}
 
 /* Make developer icons from font-awesome */
+.main-feature {
+    text-align: center;
+}
 .main-feature i {
   background: #272323;
   border-radius: 30px;

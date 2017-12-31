@@ -5,6 +5,9 @@
 .main-feature {
     text-align: center;
 }
+.main-feature .col-sm-4 {
+  margin-bottom: 40px;
+}
 .main-feature i {
   background: #272323;
   border-radius: 30px;

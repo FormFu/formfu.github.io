@@ -1,2 +1,13 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+
+/* Make developer icons from font-awesome */
+.main-feature i {
+  background: #272323;
+  border-radius: 30px;
+  color: #f3f9f9;
+  font-size: 60px;
+  line-height: 120px;
+  height: 120px;
+  width: 120px;
+}

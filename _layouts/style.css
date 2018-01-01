@@ -39,7 +39,7 @@
     outline: 0px none;
     text-decoration: none;
     color: #272323;
-    background-color: #18BC9C;
+    background-color: #F5B142;
 }
 
 .palette-link {
@@ -47,7 +47,6 @@
     position: relative;
     margin: 0px auto;
     height: 300px;
-    background-color: #F5B142;
     color: #272323;
     font-size: 30px;
 }

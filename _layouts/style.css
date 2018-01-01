@@ -1,7 +1,7 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
 
-/* Make developer icons from font-awesome */
+/* About icons from font-awesome */
 .main-feature {
     text-align: center;
 }
@@ -25,4 +25,12 @@
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+}
+
+/* Getting started buttons */
+.palette-button {
+    height: 300px;
+    margin: 0px 0px 30px;
+    text-align: center;
+
 }

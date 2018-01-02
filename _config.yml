@@ -43,7 +43,7 @@ social:
     url: http://stackoverflow.com/questions/tagged/html-formfu
   - title: github
     url: https://github.com/FormFu
-  - title: email
+  - title: envelope
     url: https://lists.perl.org/list/html-formfu.html
 
 # Postal address (add as many lines as necessary)

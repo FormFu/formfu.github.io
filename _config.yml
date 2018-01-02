@@ -46,6 +46,30 @@ social:
   - title: envelope
     url: https://lists.perl.org/list/html-formfu.html
 
+travis:
+   - title: HTML::FormFu
+     url: https://travis-ci.org/FormFu/HTML-FormFu.svg?branch=master
+   - title: Version
+     url: https://badge.fury.io/pl/HTML-FormFu.svg
+   - title: HTML::FormFu::Catalyst
+     url: https://travis-ci.org/FormFu/HTML-FormFu-Catalyst.svg?branch=master
+   - title: HTML::FormFu::Element::reCAPTCHA
+     url: https://travis-ci.org/FormFu/HTML-FormFu-Element-reCAPTCHA.svg?branch=master
+   - title: HTML::FormFu::Imager
+     url: https://travis-ci.org/FormFu/HTML-FormFu-Imager.svg?branch=master
+   - title: HTML::FormFu::jQuery
+     url: https://travis-ci.org/FormFu/HTML-FormFu-jQuery.svg?branch=master
+   - title: HTML::FormFu::Model-DBIC
+     url: https://travis-ci.org/FormFu/HTML-FormFu-Model-DBIC.svg?branch=master
+   - title: HTML::FormFu::Model-LDAP
+     url: https://travis-ci.org/FormFu/HTML-FormFu-Model-LDAP.svg?branch=master
+   - title: HTML::FormFu::MultiForm
+     url: https://travis-ci.org/FormFu/HTML-FormFu-MultiForm.svg?branch=master
+   - title: HTML::FormFu::Role::jQueryValidation
+     url: https://travis-ci.org/FormFu/HTML-FormFu-Role-jQueryValidation.svg?branch=master
+   - title: Catalyst::Controller::HTML::FormFu
+     url: https://travis-ci.org/FormFu/Catalyst-Controller-HTML-FormFu.svg?branch=master
+
 # About content
 about: 'HTML::FormFu is a HTML form framework which aims to be as easy as possible to use for basic web forms, but with the power and flexibility to do anything else you might want to do (as long as it involves forms).'
 
